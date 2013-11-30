@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.28)  30 NOV 2013 12:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.28)  30 NOV 2013 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -936,31 +936,35 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 ]
 Chapter 2.
-[7] [8
+[7] [8]
+Chapter 3.
+[9
+
+] [10
 
 ]
-Chapter 3.
-(./ParentsGuidetoChelseaSchoolTechnology.ind [9] [10
+Chapter 4.
+(./ParentsGuidetoChelseaSchoolTechnology.ind [11] [12
 
-] [11
+] [13
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 311.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 311.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 333.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
 
 (./ParentsGuidetoChelseaSchoolTechnology.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 311.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 311.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 333.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 333.
 Package rerunfilecheck Info: File `ParentsGuidetoChelseaSchoolTechnology.out' h
 as not changed.
-(rerunfilecheck)             Checksum: 1BF91D071070982BBFC27221B41BF5C6;840.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 311.
+(rerunfilecheck)             Checksum: 4F2EC86B9373AEFD28C644D387F360F0;1001.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 333.
  ) 
 Here is how much of TeX's memory you used:
- 9011 strings out of 495031
- 125265 string characters out of 6181530
- 219137 words of memory out of 5000000
- 11984 multiletter control sequences out of 15000+600000
+ 9025 strings out of 495031
+ 125463 string characters out of 6181530
+ 219355 words of memory out of 5000000
+ 11993 multiletter control sequences out of 15000+600000
  63763 words of font info for 71 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
  36i,11n,49p,468b,393s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -970,11 +974,11 @@ e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ParentsGuidetoChelseaSchoolTechnology.pdf (15 pages, 77716 by
+Output written on ParentsGuidetoChelseaSchoolTechnology.pdf (17 pages, 82762 by
 tes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
- 45 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 274 PDF objects out of 1000 (max. 8388607)
+ 246 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 

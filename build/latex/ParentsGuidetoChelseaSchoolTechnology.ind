@@ -2,7 +2,7 @@
 \def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
 
   \bigletter A
-  \item attendance, \hyperpage{7}
+  \item attendance, \hyperpage{8}
 
   \indexspace
   \bigletter C
@@ -16,8 +16,12 @@
 
   \indexspace
   \bigletter G
-  \item grades, \hyperpage{7}
-  \item guardians, \hyperpage{7}
+  \item grades, \hyperpage{8}
+  \item guardians, \hyperpage{8}
+
+  \indexspace
+  \bigletter H
+  \item helpdesk, \hyperpage{9}
 
   \indexspace
   \bigletter I
@@ -38,25 +42,32 @@
   \item moodle, \hyperpage{5}
 
   \indexspace
+  \bigletter O
+  \item OSticket, \hyperpage{9}
+
+  \indexspace
   \bigletter P
-  \item parents, \hyperpage{7}
+  \item parents, \hyperpage{8}
   \item passcode, \hyperpage{5}
   \item password, \hyperpage{5}
-  \item Pearson, \hyperpage{7}
-  \item PowerSchool, \hyperpage{7}
+  \item Pearson, \hyperpage{8}
+  \item PowerSchool, \hyperpage{8}
 
   \indexspace
   \bigletter R
-  \item reports, \hyperpage{7}
+  \item reports, \hyperpage{8}
 
   \indexspace
   \bigletter S
-  \item SIS, \hyperpage{7}
-  \item students, \hyperpage{7}
+  \item SIS, \hyperpage{8}
+  \item students, \hyperpage{8}
+  \item support, \hyperpage{9}
 
   \indexspace
   \bigletter T
-  \item transcripts, \hyperpage{7}
+  \item tech support, \hyperpage{9}
+  \item transcripts, \hyperpage{8}
+  \item troubleshooting, \hyperpage{9}
 
   \indexspace
   \bigletter V

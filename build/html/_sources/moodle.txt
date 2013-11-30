@@ -73,7 +73,7 @@ With that in mind, we've configured all available courses to be either:
 
 At Chelsea School, restricted courses have been configured to provide guest access to guests with a course passcode.
 
-The passcode with which parents and guardians can access all restricted courses is **chelseaguest**.
+The passcode with which parents and guardians can access all restricted courses is _________________.
 
 To access a course as a guest,
 

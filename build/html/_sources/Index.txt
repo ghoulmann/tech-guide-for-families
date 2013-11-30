@@ -13,6 +13,7 @@ Contents:
 
    moodle
    powerschool
+   helpdesk
 
 Indices and tables
 ==================

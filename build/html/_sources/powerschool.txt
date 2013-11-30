@@ -5,12 +5,14 @@ PowerSchool
 What is PowerSchool?
 ====================
 
-Pearson's PowerSchool_ is a web-based shool information system. At its foundation, PowerSchool is used to record, report, and view student grades, attendance, and reports.
+Pearson's PowerSchool_ is a web-based shool information system. At its foundation, PowerSchool is used to record, report, and view student grades, attendance, and reports. It provides parents and guardians access through a Web browser via its "Parent Portal." 
 
 Credentials
 ===========
 
-Credentials for PowerSchool_ Parent Portal were generated for each student's parents and guardians and sent via E-mail at the beginning of Quarter 1. If you've misplaced your login credentials, please contact helpdesk_.
+Credentials for PowerSchool_ Parent Portal were generated for each student's parents and guardians and sent via E-mail at the beginning of Quarter 1. 
+
+If you've misplaced your login credentials, please contact helpdesk_.
 
 Accessing PowerSchool
 =====================
