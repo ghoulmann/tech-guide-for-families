@@ -9,10 +9,12 @@ Tech Guide
 Contents:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
 
    moodle
    powerschool
+   lexia
+   kurzweil
    helpdesk
 
 Indices and tables
@@ -20,4 +22,3 @@ Indices and tables
 
 * :ref:`genindex`
 * :ref:`search`
-
