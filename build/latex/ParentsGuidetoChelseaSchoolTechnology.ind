@@ -1,0 +1,65 @@
+\begin{theindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter A
+  \item attendance, \hyperpage{7}
+
+  \indexspace
+  \bigletter C
+  \item CMS, \hyperpage{5}
+  \item courses, \hyperpage{5}
+  \item credentials, \hyperpage{5}
+
+  \indexspace
+  \bigletter D
+  \item departments, \hyperpage{5}
+
+  \indexspace
+  \bigletter G
+  \item grades, \hyperpage{7}
+  \item guardians, \hyperpage{7}
+
+  \indexspace
+  \bigletter I
+  \item icons, \hyperpage{5}
+
+  \indexspace
+  \bigletter K
+  \item key, \hyperpage{5}
+
+  \indexspace
+  \bigletter L
+  \item LMS, \hyperpage{5}
+  \item logging in, \hyperpage{5}
+  \item login, \hyperpage{5}
+
+  \indexspace
+  \bigletter M
+  \item moodle, \hyperpage{5}
+
+  \indexspace
+  \bigletter P
+  \item parents, \hyperpage{7}
+  \item passcode, \hyperpage{5}
+  \item password, \hyperpage{5}
+  \item Pearson, \hyperpage{7}
+  \item PowerSchool, \hyperpage{7}
+
+  \indexspace
+  \bigletter R
+  \item reports, \hyperpage{7}
+
+  \indexspace
+  \bigletter S
+  \item SIS, \hyperpage{7}
+  \item students, \hyperpage{7}
+
+  \indexspace
+  \bigletter T
+  \item transcripts, \hyperpage{7}
+
+  \indexspace
+  \bigletter V
+  \item visual, \hyperpage{5}
+
+\end{theindex}
