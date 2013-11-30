@@ -6,8 +6,6 @@
 Tech Guide
 ==========
 
-Contents:
-
 .. toctree::
    :maxdepth: 3
 
@@ -16,9 +14,5 @@ Contents:
    lexia
    kurzweil
    helpdesk
-
-Indices and tables
-==================
-
 * :ref:`genindex`
 * :ref:`search`

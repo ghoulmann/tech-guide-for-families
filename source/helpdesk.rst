@@ -13,6 +13,10 @@ To open a new ticket, you must provide your name, Email address, and a brief sub
 
 In the message field, please articulate your support needs in as much detail as possible, Explain the problem as well how to reproduce it, what you've tried to solve it, etc.
 
+.. image:: _static/osticket.png
+   :scale: 100
+   :align: center
+   
 **Important**: Please include the name of your Chelsea School student in the *message* field.
 
 .. _helpdesk: http://chelseapride.org/helpdesk/

@@ -239,7 +239,7 @@ latex_elements = {
 #'papersize': 'letterpaper',
 
 # The font size ('10pt', '11pt' or '12pt').
-#'pointsize': '10pt',
+#'pointsize': '12pt',
 
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
@@ -249,7 +249,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('Index', 'ParentsGuidetoChelseaSchoolTechnology.tex', u'Tech Guide',
-   u'Chelsea School', 'manual'),
+   u'Chelsea School', 'howto'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
