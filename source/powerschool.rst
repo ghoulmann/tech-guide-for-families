@@ -44,4 +44,4 @@ Resources
 .. _Moodle: http://chelseapride.org
 .. _Firefox: http://www.mozilla.org/en-US/firefox/new/
 
-.. index:: grades, attendance, transcripts, reports, students, PowerSchool, Pearson, SIS, parents, guardians,
+.. index:: grades, attendance, transcripts, reports, students, PowerSchool, Pearson, SIS, parents, guardians, records
