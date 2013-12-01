@@ -25,6 +25,10 @@ Alternatively, navigate to Moodle_ (`http://chelseapride.org <http://chelseaprid
 
 You will prompted to enter credentials for PowerSchool. Enter the correct credentials, being mindful of capitalization, and click the "Sign In" button. (From this page, you may also follow links to recover a lost username or password.)
 
+.. image:: pslogin.png
+   :scale: 100
+   :align: center
+
 If you have trouble accessing PowerSchool_ the first time, please contact helpdesk_ via the Web. Please include the following information: your name, the student's name, and a description of the problem your having in as much detail as you can provide.
 
 Resources

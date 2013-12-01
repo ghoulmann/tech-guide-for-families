@@ -19,7 +19,7 @@ Front Page (Main Conent Area)
 =============================
 
 We've made a significant effort to make Moodle's front page more accessible to more students. 
-
+   
 In the past, students have been faced with a wall of text listing courses and course catalogs. Beginning this year, the main part of the Front Page begins with a more visual experience; the verbal components are still on the front page, but are now subordinate to the icon-driven experience.
 
 Icons appear in three groups: Quicklinks for students, quicklinks for parents and guardians, and finally course categories.
@@ -29,20 +29,36 @@ Links for Students
 
 In addition to a quicklink to course icons, students will find links for accessing other resources, such as their school E-mail accounts, Khan Academy, etc.
 
+.. image:: moodle_student_stuff.png
+   :scale: 100
+   :align: center
+
 Links for Parents and Guardians
 -------------------------------
 
 This section includes links to PowerSchool, the student handbook, etc.
 
+.. image:: family_stuff.png
+   :scale: 100
+   :align: center
+   
 Academic Departments
 --------------------
 
 We've limited the amount of text the user has to cut through by linking directly to course departments: Science, Technology, English/Language Arts, etc.
 
+.. image:: course_icons.png
+   :scale: 100
+   :align: center
+
 Courses by Category
 -------------------
 
 Wall of text. More direct path to courses, but not the best way to serve many in our community.
+
+.. image:: moodle_text.png
+   :scale: 100
+   :align: center
 
 Front Page (Left Sidebar)
 =========================
@@ -53,6 +69,10 @@ Logging In (Students Only)
 To the immediate left of the front page content area is a sidebar for navigation. It is divided into blocks. The top block is for logging in to Moodle.
 
 Logging in requires a username and complex password. Both are provided by a student's advisor and cannot be changed by the student. The pattern for student usernames is <lastname><first initial> (all lower case). To log in, enter the username in the username field and the password into the password field; press enter or click *Login* to submit credentials.
+
+.. image:: login_block.png
+   :scale: 100
+   :align: center
 
 After a brief wait, successful login will be indicated at the top right of the page, which should indicate that the student is the logged in user.
 
