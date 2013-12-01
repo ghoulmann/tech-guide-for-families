@@ -103,7 +103,7 @@ html_theme_options = {
     'navbar_title': "Tech Guide",
 
     # Tab name for entire site. (Default: "Site")
-    'navbar_site_name': "Site",
+    'navbar_site_name': "Site Contents",
 
     # A list of tuples containing pages or urls to link to.
     # Valid tuples should be in the following forms:
@@ -112,12 +112,12 @@ html_theme_options = {
     #    (name, "http://example.com", True) # arbitrary absolute url
     # Note the "1" or "True" value above as the third argument to indicate
     # an arbitrary url.
-    'navbar_links': [
+    #'navbar_links': [
     #    ("Examples", "examples"),
-        ("Home", "http://chelseaschool.edu", True),
-        ("Moodle", "http://chelseapride.org", True),
-        ("Support", "http://chelseapride.org/helpdesk", True),
-    ],
+    #    ("Home", "http://chelseaschool.edu", True),
+    #    ("Moodle", "http://chelseapride.org", True),
+    #    ("Support", "http://chelseapride.org/helpdesk", True),
+    #],
 
     # Render the next and previous page links in navbar. (Default: true)
     'navbar_sidebarrel': True,
@@ -136,7 +136,7 @@ html_theme_options = {
     # will break.
     #
     # Values: "true" (default) or "false"
-    'globaltoc_includehidden': "true",
+    'globaltoc_includehidden': "false",
 
     # HTML navbar class (Default: "navbar") to attach to <div> element.
     # For black navbar, do "navbar navbar-inverse"
