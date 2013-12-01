@@ -23,7 +23,7 @@ Using Firefox_, navigate to `http://chelseaschool.powerschool.com/ <http://chels
 
 Alternatively, navigate to Moodle_ (`http://chelseapride.org <http://chelseapride.org>`_) and click the PowerSchool_ icon on the front page under either "Student Stuff" or "Family Stuff."
 
-You will prompted to enter credentials for PowerSchool. Enter the correct credentials, being mindful of capitalization, and click the "Sign In" button. (From this page, you may also follow links to recover a lost username or password.)
+You will prompted to enter credentials for PowerSchool_. Enter the correct credentials, being mindful of capitalization, and click the "Sign In" button. (From this page, you may also follow links to recover a lost username or password.)
 
 .. image:: pslogin.png
    :scale: 100
@@ -37,7 +37,7 @@ Resources
 * `PowerSchool Parent Portal <http://youtu.be/SzF4wF4fglY>`_ (YouTube)
 * `PowerSchool: Parent Portal Tutorial <http://youtu.be/7z5rOk-89OE>`_ (YouTube)
 * `Viewing Child's Grades in PowerSchool Parent Portal <http://youtu.be/YFS0n2D8ri4>`_ (YouTube)
-* `Parent Portal User Guide <./ps7x_parent_portal_user_guide.pdf>`_ (PDF)
+* `Parent Portal User Guide <_static/ps7x_parent_portal_user_guide.pdf>`_ (PDF)
 
 .. _helpdesk: http://chelseapride.org/helpdesk
 .. _PowerSchool: http://chelseaschool.powerschool.com/
