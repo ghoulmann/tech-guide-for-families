@@ -28,4 +28,8 @@ In the message field, please articulate your support needs in as much detail as 
 Tech Mobile
 ===========
 
-.. index:: helpdesk, tech support, support, troubleshooting, OSticket
+If you are having trouble installing Lexia at home or need Kurzweil installed, Chelsea School has a tech mobile program that, upon request, can come to your home.
+
+If you would like to schedule an appointment with the tech mobile program, please contact Karen Gallo or Sabre Goldman.  The tech mobile program can also offer assistance with PowerSchool and Moodle.
+
+.. index:: helpdesk, tech support, support, troubleshooting, OSticket, tech mobile, 

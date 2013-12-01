@@ -58,3 +58,5 @@ Lexia School to Home support: `http://www.lexialearning.com/lexiasupport/school-
 
 .. [1] http://www.lexialearning.com/product
 .. [2] http://www.lexialearning.com/product#sos
+
+.. index:: reading, lexia, lexiareading, literacy, phonemic awareness,
